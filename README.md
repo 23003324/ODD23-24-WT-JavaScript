@@ -202,7 +202,7 @@ STEP 5: Close the script and head  tags.
 
 STEP 6: Give the input type in the body of the HTML.
 
-STEP 6 : End the HTML structure.
+STEP 7: End the HTML structure.
 
 ## PROGRAM:
 ```
