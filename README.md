@@ -406,7 +406,7 @@ STEP 3: Define the function for the program as  validate().
 
 STEP 4: Give the necessary input that is required to design a JavaScript program which displays error messages when a field in form is entered incorrectly.Get the number for input using document.getElementById.
 
-STEP 5: Using for-loop condition and if-else condition . displays error messages when a field in form is entered incorrectly. Close the script and head  tags.
+STEP 5: Using for-loop condition and if-else condition displays error messages when a field in form is entered incorrectly. Close the script and head  tags.
 
 STEP 6: Give the input type in the body of the HTML.
 
