@@ -196,7 +196,7 @@ STEP 2: Open the HTML structure with necessary head and body .Give the script ty
 
 STEP 3: Define the function for the program as function f1() for addition, function f2() for subtraction, function f3() for multiplication, function f4() for division, function f5() for sin(a), function f6() for cos(a) ,function f7() for tan(a), function f8() for a*a , function f9() for clear.
 
-STEP 4: Give the necessary input that is required to implement a simple calculator. . Get the number for input using document.getElementById.
+STEP 4: Give the necessary input that is required to implement a simple calculator. Get the number for input using document.getElementById.
 
 STEP 5: Close the script and head  tags.
 
