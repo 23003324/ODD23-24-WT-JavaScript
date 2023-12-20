@@ -24,7 +24,7 @@ Close the script and head  tags.
 
 STEP 6: Give the input type in the body of the HTML.
 
-STEP 6 : End the HTML structure.
+STEP 7 : End the HTML structure.
 
 ## PROGRAM:
 ```
@@ -85,7 +85,7 @@ Close the script and head  tags.
 
 STEP 6: Give the input type in the body of the HTML.
 
-STEP 6 : End the HTML structure.
+STEP 7 : End the HTML structure.
 
 ## PROGRAM:
 ```
@@ -138,7 +138,7 @@ STEP 5: Using for-loop condition  generate ‘N’ prime numbers. Close the scri
 
 STEP 6: Give the input type in the body of the HTML.
 
-STEP 6 : End the HTML structure.
+STEP 7 : End the HTML structure.
 
 ## PROGRAM:
 ```
@@ -314,7 +314,7 @@ STEP 5: Close the script and head  tags.
 
 STEP 6: Give the input type in the body of the HTML.
 
-STEP 6 : End the HTML structure.
+STEP 7 : End the HTML structure.
 
 ## PROGRAM:
 
@@ -410,7 +410,7 @@ STEP 5: Using for-loop condition and if-else condition displays error messages w
 
 STEP 6: Give the input type in the body of the HTML.
 
-STEP 6 : End the HTML structure.
+STEP 7 : End the HTML structure.
 
 ## PROGRAM :
 ```
