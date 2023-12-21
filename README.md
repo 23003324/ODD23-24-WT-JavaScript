@@ -182,6 +182,11 @@ alert(i);
 ## OUTPUT:
 
 ![Alt text](prime.png)
+
+![Alt text](output.png)
+
+
+
 ## RESULT:
 Thus the java code executed to construct a JavaScript code to generate ‘N’ prime numbers.
 
